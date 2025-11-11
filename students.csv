@@ -1,0 +1,201 @@
+===============================
+   Welcome to GradeBook Analyzer
+===============================
+
+1. Enter student data manually
+2. Load data from CSV file
+3. Exit
+
+Enter your choice (1-3): 2
+Enter CSV file path (e.g. data.csv): data.csv
+CSV file loaded successfully!
+
+
+Average Marks: 86.60
+Median Marks: 88.00
+Highest Marks: 92.0
+Lowest Marks: 78.0
+
+Name            Marks   Grade
+----------------------------------
+ Alice          85.0    B
+ Bob            92.0    A
+ Charlie        78.0    C
+ David          90.0    A
+ Eve            88.0    B
+----------------------------------
+
+Grade Distribution:
+A: 2 students
+B: 2 students
+C: 1 students
+D: 0 students
+F: 0 students
+
+Passed Students (5):  Alice,  Bob,  Charlie,  David,  Eve
+Failed Students (0):
+
+Do you want to run another analysis? (y/n): y
+
+===============================
+   Welcome to GradeBook Analyzer
+===============================
+
+1. Enter student data manually
+2. Load data from CSV file
+3. Exit
+
+Enter your choice (1-3): 2
+Enter CSV file path (e.g. data.csv): data.csv
+CSV file loaded successfully!
+
+
+Average Marks: 86.60
+Median Marks: 88.00
+Highest Marks: 92.0
+Lowest Marks: 78.0
+
+Name            Marks   Grade
+----------------------------------
+ Alice          85.0    B
+ Bob            92.0    A
+ Charlie        78.0    C
+ David          90.0    A
+ Eve            88.0    B
+----------------------------------
+
+Grade Distribution:
+A: 2 students
+B: 2 students
+C: 1 students
+D: 0 students
+F: 0 students
+
+Passed Students (5):  Alice,  Bob,  Charlie,  David,  Eve
+Failed Students (0):
+
+Do you want to run another analysis? (y/n): y
+
+===============================
+   Welcome to GradeBook Analyzer
+===============================
+
+1. Enter student data manually
+2. Load data from CSV file
+3. Exit
+
+Enter your choice (1-3): 2
+Enter CSV file path (e.g. data.csv): data.csv
+CSV file loaded successfully!
+
+
+Average Marks: 86.60
+Median Marks: 88.00
+Highest Marks: 92.0
+Lowest Marks: 78.0
+
+Name            Marks   Grade
+----------------------------------
+ Alice          85.0    B
+ Bob            92.0    A
+ Charlie        78.0    C
+ David          90.0    A
+ Eve            88.0    B
+----------------------------------
+
+Grade Distribution:
+A: 2 students
+B: 2 students
+C: 1 students
+D: 0 students
+F: 0 students
+
+Passed Students (5):  Alice,  Bob,  Charlie,  David,  Eve
+Failed Students (0): 
+
+Do you want to run another analysis? (y/n): y
+
+===============================
+   Welcome to GradeBook Analyzer
+===============================
+
+1. Enter student data manually
+2. Load data from CSV file
+3. Exit
+
+Enter your choice (1-3): 1
+Enter number of students: 3
+Enter student name: Himanshu 
+Enter marks for Himanshu : 90
+Enter student name: ROUNAK
+Enter marks for ROUNAK: 98
+Enter student name: Subhranil
+Enter marks for Subhranil: 99
+
+Average Marks: 95.67
+Median Marks: 98.00
+Highest Marks: 99.0
+Lowest Marks: 90.0
+
+Name            Marks   Grade
+----------------------------------
+Himanshu        90.0    A
+ROUNAK          98.0    A
+Subhranil       99.0    A
+----------------------------------
+
+Grade Distribution:
+A: 3 students
+B: 0 students
+C: 0 students
+D: 0 students
+F: 0 students
+
+Passed Students (3): Himanshu , ROUNAK, Subhranil
+Failed Students (0):
+
+Do you want to run another analysis? (y/n): y
+
+===============================
+   Welcome to GradeBook Analyzer
+===============================
+
+1. Enter student data manually
+2. Load data from CSV file
+3. Exit
+
+Enter your choice (1-3): 1
+Enter number of students: 4
+Enter student name: john
+Enter marks for john: 54
+Enter student name: jack 
+Enter marks for jack: 76
+Enter student name: jacob
+Enter marks for jacob: 83
+Enter student name: johnny
+Enter marks for johnny: 91
+
+Average Marks: 76.00
+Median Marks: 79.50
+Highest Marks: 91.0
+Lowest Marks: 54.0
+
+Name            Marks   Grade
+----------------------------------
+john            54.0    F
+jack            76.0    C
+jacob           83.0    B
+johnny          91.0    A
+----------------------------------
+
+Grade Distribution:
+A: 1 students
+B: 1 students
+C: 1 students
+D: 0 students
+F: 1 students
+
+Passed Students (4): john, jack, jacob, johnny
+Failed Students (0):
+
+Do you want to run another analysis? (y/n):
